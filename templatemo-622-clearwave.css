@@ -95,7 +95,7 @@ img { display: block; max-width: 100%; }
 .download-card span, .download-card small { color: #dbeafe; font-size: .68rem; }
 .download-card b { margin: 3px 0; font-size: 1.1rem; }
 .download-card strong { font-size: 1.4rem; }
-.placeholder-note { margin-top: 16px; color: #bfdbfe; font-size: .72rem; }
+.release-note { margin-top: 16px; color: #bfdbfe; font-size: .72rem; }
 
 .section { padding: 110px 0; }
 .section-heading { max-width: 720px; margin-bottom: 48px; }

@@ -2,21 +2,12 @@
 
 Static download and product website for TutorsAtWork.
 
-## Replace The Placeholder Downloads
+## Release Downloads
 
-The download buttons currently point to:
+The download buttons currently serve:
 
-- `downloads/TutorsAtWork-Android-placeholder.txt`
-- `downloads/TutorsAtWork-Windows-placeholder.txt`
+- `downloads/TutorsAtWork-Android-1.0.0.apk`
+- `downloads/TutorsAtWork-Setup-1.0.0-x64.exe`
 
-When releases are ready:
-
-1. Add the Android APK and the ZIP containing the complete Windows release.
-2. Update both download links in `index.html`.
-3. Remove the placeholder notice from the download section.
-
-The Windows ZIP must contain `TutorsAtWork.exe`, its DLL files, and the `data`
-directory. The executable does not run as a standalone file.
-
-For large release files, host them as GitHub Release assets and use their
-release URLs in `index.html`.
+For each release, add the new Android APK and Windows installer, then update
+their filenames and version labels in `index.html`.

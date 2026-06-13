@@ -1,4 +1,0 @@
-TutorsAtWork Windows download placeholder
-
-Replace this file with a ZIP containing the complete Windows release folder,
-including TutorsAtWork.exe, its DLL files, and the data directory.
