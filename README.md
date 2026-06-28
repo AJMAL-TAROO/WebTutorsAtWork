@@ -1,10 +1,11 @@
 # WebTutorsAtWork
 
-Static download and support website for TutorsAtWork.
+Source repository for TutorsAtWork release downloads.
 
-The main web app is intended to use `https://www.tutorsatwork.com/`.
-This project remains the optional Windows/Android download page and support
-contact page.
+The main web app uses `https://www.tutorsatwork.com/`. Public download and
+contact pages use `https://www.tutorsatwork.com/download/` and
+`https://www.tutorsatwork.com/contact/`. The old GitHub Pages entry points
+redirect to those branded URLs.
 
 ## Release Downloads
 
